@@ -22,7 +22,6 @@ let bubbleSort = (numberArr) => {
     do {
         swapped = false;
         for (let i = 1; i < arrLength; i++) {
-            bubbleSortOperationsCount++;
             // compare two pair of values
             if (numberArr[i - 1] > numberArr[i]) {
                 //swap them
