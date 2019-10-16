@@ -1,6 +1,4 @@
 let numberArr = [];
-let bubbleSortOperationsCount = 0;
-let qsortOperationsCount = 0;
 
 
 //settings rundom numbers in arrays
